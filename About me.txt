@@ -1,0 +1,31 @@
+
+
+     d888888b  .d88b.   .d88b.  db      
+     `~~88~~' .8P  Y8. .8P  Y8. 88      
+        88    88    88 88    88 88      
+        88    88    88 88    88 88      
+        88    `8b  d8' `8b  d8' 88booo. 
+        YP     `Y88P'   `Y88P'  Y88888P 
+                                       
+                                        
+ 
+a simple tool to easily view saved Wi-Fi profiles and passwords on your computer
+
+
+
+       .--.   .----.   .---.  .-. .-. .-----.     .-.  .-. .----. 
+      / {} \  | {_} } / {-. \ | } { | `-' '-'     }  \/  { } |__} 
+     /  /\  \ | {_} } \ '-} / \ `-' /   } {       | {  } | } '__} 
+     `-'  `-' `----'   `---'   `---'    `-'       `-'  `-' `----' 
+                                                                  
+ 
+​I build open-source hardware, low-level firmware, and security tooling at the intersection of IoT, RF systems, and robotics.
+​As the creator of Badrabbit, I take projects from concept to execution—handling schematic design, multi-layer PCB layout, firmware architecture, and host UI integration.
+​Key Areas of Focus
+​Hardware & Firmware Engineering: End-to-end design, custom microcontrollers, RTOS, and protocol integration.
+​Wireless & RF Security: Protocol analysis and security research across BLE, Wi-Fi, Sub-GHz, and RC control systems.
+​Offensive Security & Malware Research: Crafting proof-of-concept exploits, reverse engineering binaries, and studying malware architecture to better understand hardware and firmware attack surfaces.
+​Developer Education: Creating open-source documentation, tools, and technical content to empower other hardware hackers and researchers.
+​Tips for Framing Security/Malware Research:
+​Context Matters: Using terms like "Offensive Security Research," "Proof-of-Concept Exploit Development," or "Malware Architecture & Reverse Engineering" helps communicate your technical depth clearly to researchers, employers, and collaborators.
+​Focus on Purpose: Highlight that the research fuels hardware security, defense, and developer education.
