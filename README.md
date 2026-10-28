@@ -1,6 +1,22 @@
-<img width="1920" height="1080" alt="Show Wifi Password" src="https://github.com/user-attachments/assets/d49c0c54-4615-4c20-a655-866302cbff59" />
+<img width="843" height="290" alt="2" src="https://github.com/user-attachments/assets/37efe2ac-afc2-4ece-981f-3dc7f6d85cbf" />
+<img width="843" height="171" alt="1" src="https://github.com/user-attachments/assets/4dfc42f6-b141-4ac8-8f27-02527870d3cc" />
+
 # Show-WiFi-Password-
-A simple tool to easily view saved Wi-Fi profiles and passwords on your computer . 
+
+Badrabbit 3.0v: Show WiFi Password Easy and Fast
+Badrabbit 3.0v is a simple tool designed to help you quickly and easily view the WiFi passwords saved on your computer.
+Features:
+ * Quick Access: View all your saved WiFi passwords in seconds.
+ * User-Friendly: No technical knowledge needed, with a simple interface.
+ * Secure: Operates locally using only your computer's data.
+How to Use:
+ * Download and run the program on your computer.
+ * It will automatically list the WiFi networks you've connected to and their passwords.
+We welcome your feedback to help improve this tool!
+A simple tool to easily view saved Wi-Fi profiles and passwords on your computer .
+<img width="1080" height="360" alt="ujj" src="https://github.com/user-attachments/assets/3ddaf4a5-a2de-49e2-9df1-e9d6127280bc" /><img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/0a2dd0b5-2b6a-4f0c-8994-d062f71fd589" />
+
+
 
   About Me
 
