@@ -1,5 +1,8 @@
-<img width="843" height="290" alt="2" src="https://github.com/user-attachments/assets/37efe2ac-afc2-4ece-981f-3dc7f6d85cbf" />
-<img width="843" height="171" alt="1" src="https://github.com/user-attachments/assets/4dfc42f6-b141-4ac8-8f27-02527870d3cc" />
+<img width="1080" height="360" alt="ujj" src="https://github.com/user-attachments/assets/a470af39-19ba-4579-8570-644097f1b710" />
+
+<img width="843" height="171" alt="1" src="https://github.com/user-attachments/assets/31b25d90-7913-4412-a9dc-03fe2b28de4d" />
+<img width="843" height="290" alt="2" src="https://github.com/user-attachments/assets/993f5dfb-c1c6-4605-953c-1e63c204f6d8" />
+
 
 # Show-WiFi-Password-
 
