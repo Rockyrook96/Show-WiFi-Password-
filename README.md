@@ -17,8 +17,7 @@ How to Use:
  * It will automatically list the WiFi networks you've connected to and their passwords.
 We welcome your feedback to help improve this tool!
 A simple tool to easily view saved Wi-Fi profiles and passwords on your computer .
-<img width="1080" height="360" alt="ujj" src="https://github.com/user-attachments/assets/3ddaf4a5-a2de-49e2-9df1-e9d6127280bc" /><img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/0a2dd0b5-2b6a-4f0c-8994-d062f71fd589" />
-
+<img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/0f157b65-8243-41aa-b00c-daf12f47c2c4" />
 
 
   About Me
@@ -36,3 +35,6 @@ Welcome to Bad Rabbit. Innovating at the intersection of robotics, ESP32, ESP826
 💀 Wi-Fi Killer devices(ESP8266)
 💀 MINI PC (raspberry pi)
 💀 Auto run virus and malware program
+
+
+<img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/0d8de22e-3981-48cc-8c39-d3efcd18abfa" />
