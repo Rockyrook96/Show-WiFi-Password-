@@ -17,7 +17,6 @@ How to Use:
  * It will automatically list the WiFi networks you've connected to and their passwords.
 We welcome your feedback to help improve this tool!
 A simple tool to easily view saved Wi-Fi profiles and passwords on your computer .
-<img width="1920" height="1080" alt="Show Wifi Password (2)" src="https://github.com/user-attachments/assets/0f157b65-8243-41aa-b00c-daf12f47c2c4" />
 
 
   About Me
